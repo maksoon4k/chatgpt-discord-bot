@@ -1,5 +1,5 @@
 {
 	"token": "HERE-YOUR-DISCORD-BOT-TOKEN",
-	"prefix": "/", #a prefix for the commands, whatever you like
+	"prefix": "/",
 	"token_openai": "HERE-YOUR-OPENAI-TOKEN"
 }
